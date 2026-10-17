@@ -1,1 +1,7 @@
 # SNHU.CS.370
+
+AI is a fast-growing industry. In the primary project, I created the deep Q-learning training function that allowed the pirate intelligent agent to learn through exploration, rewards, and penalties. I also worked with the training process and evaluated the model's ability to find the treasure. The results helped me understand that AI performance depends on factors such as training, neural network structure, and the number of epochs.
+
+Computer scientists work in different areas, including data, systems, applications, and artificial intelligence. Their work matters because technology is part of everyday life and continues to evolve. My approach to solving problems comes from my background in project management. I would start by gathering requirements, identifying impacts and dependencies, and establishing a timeline. I would then build a basic structure or skeleton, test it, and make improvements as needed. This approach helps organize the work and identify potential problems early.
+
+My ethical responsibilities include protecting the end user's personally identifiable information (PII), safeguarding company data, and making decisions I can stand behind. I believe it is important to protect sensitive information, respect privacy, and prevent company data or confidential information from being exposed. When developing AI solutions, I also need to consider reliability and how the results may affect the people using them. Technology should be useful, but it should also be developed responsibly and with accountability.
